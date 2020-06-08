@@ -13,8 +13,10 @@ The user's profile contains also his personal **work experience**, where is stor
 The company's profile contains information about it's **management**, city of residence and industry.
 
 ## ER Diagram
+Contained in erdiagram.pdf
 
 ## Relational Diagram
+Contained in rdiagram.pdf
 
 ## Triggers
 There are 3 triggers:
